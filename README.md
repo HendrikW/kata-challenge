@@ -1,7 +1,7 @@
 # kata-challenge
 
 <div class="problem_content" role="problem">
-<p>By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23. (meaning: on every level of the pyramid you can either go "left" or "right", no other options).</p>
+<p>By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23. (meaning: on every level of the pyramid you can either go "left" or "right" to the next level, no other options).</p>
 <p align="center"><span style="color:#ff0000;"><b>3</b></span><br><span style="color:#ff0000;"><b>7</b></span> 4<br>
 2 <span style="color:#ff0000;"><b>4</b></span> 6<br>
 8 5 <span style="color:#ff0000;"><b>9</b></span> 3</p>
