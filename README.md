@@ -25,4 +25,4 @@
 <p class="note"><b>NOTE:</b> As there are only 16384 routes, it is possible to solve this problem by trying every route, and it's good to think how to do that – but also try to think about other possibilities that don't require as much computation (and thus work for even bigger pyramids as well).</p>
 </div>
 
-Also think about how you would represent the pyramid in a javascript program. If you have the time, think about the actual Javascript implementation.
+Also think about how you would *represent* the pyramid in a javascript program (which data structure(s)). If you have the time, start thinking about the actual Javascript *implementation*.
