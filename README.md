@@ -22,7 +22,7 @@
 91 71 52 38 17 14 91 43 58 50 27 29 48<br>
 63 66 04 68 89 53 67 30 73 16 69 87 40 31<br>
 04 62 98 27 23 09 70 98 73 93 38 53 60 04 23</p>
-<p class="note"><b>NOTE:</b> As there are only 16384 routes, it is possible to solve this problem by trying every route, and it's good to think how to do that – but also try to think about other possibilities that don't require as much computation (and thus work for even bigger pyramids as well).</p>
+<p class="note"><b>NOTE:</b> As there are only 16384 routes, it is possible to solve this problem by trying every route, and it's good to think how to do that – but try to think more about possibilities that don't require as much computation (and thus work for even bigger pyramids as well).</p>
 </div>
 
 In Javascript you would **represent** the pyramid as an array of arrays (one array per level with an array of numbers - like this : `[[3], [7, 4], [2, 4, 6], [8, 5, 9, 3]]`). If you have the time, start thinking about the actual Javascript **implementation** (a *function* that takes a pyramid and returns the maximum total number for a path as specified above).
